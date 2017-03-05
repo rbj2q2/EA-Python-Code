@@ -1,0 +1,76 @@
+Test Result Log
+CNF Training File Path:	datasets/set2/training/
+CNF Testing File Path:	datasets/set2/testing/
+Config File Path:	configurations/res1adaptReDS2.cfg
+Initialization Seed File Path:	solutions/res1adaptReDS2.sol
+Using Time-Generated Seed:	True
+Random Seed Value:	1476044862.7593722
+
+Mu:	25
+Lambda:	25
+R-Elitism Value:	1
+Number of Generations Before Restart:	5
+Number Selected From Initial Survivor Seed:	0
+Initialization Scheme:	Biased towards large
+Parent Selection Scheme:	Uniform Random
+Survivor Selection Scheme:	Truncation
+Survivor Strategy Scheme:	Plus
+Survivor k-Tournament:	10
+Parent k-Tournament:	5
+Number of Generations for Convergence:	100
+Timer Initialized Seed:	True
+Initialization From Seed Flag:	False
+Action on Best Convergence:	Restart
+Action on Average Convergence:	Nothing
+Mutation Self-Adaptivity Used:	False
+Recombination Self-Adaptivity Used:	True
+Evaluation Limit:	750
+
+Number of Runs:	5
+Evaluations per Run:	750
+
+
+Run 1
+100	0.24423461174344438
+200	0.2699659252260173
+300	0.37070661334558447
+400	0.3228225049010587
+500	0.26570001272657695
+623	0.35231667966688746
+721	0.30499195800171014
+
+Run 2
+123	0.21338273713274272
+221	0.22066684010784218
+319	0.25907578170945134
+417	0.33540221678879095
+515	0.3317526001024926
+613	0.3281621419720255
+711	0.37871477458442815
+
+Run 3
+123	0.19476380586771436
+221	0.23223982732885914
+319	0.23130834266624814
+417	0.251761210335027
+515	0.13948444644983607
+613	0.28243145759421256
+711	0.38898273733669636
+
+Run 4
+123	0.26349495510324905
+221	0.29948368157152844
+319	0.31544264887640916
+417	0.31996699559188535
+515	0.3989559791500209
+613	0.4120535697619792
+711	0.4105169682240418
+
+Run 5
+123	0.2888482758440211
+221	0.285498004415573
+319	0.3142021749694604
+417	0.2941945262040357
+515	0.3149048277777882
+613	0.31799737735622463
+711	0.533575888799344
